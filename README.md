@@ -11,7 +11,7 @@
 
 Untuk dapat menggunakan rest api dari App Tani Cerdas maka ikuti langkah berikut ini:
 
-- git clone https://github.com/alexistdev/tanicerdas
+- git clone 
 - Buat database kosong di phpmyadmin dengan nama tanicerdas (atau bebas)
 - Buat file .env copas dari .env-example di root directory project apitanicerdas
 - Lakukan pengaturan nama database, username dan password. Untuk nama database sesuai dengan langkah nomor 2.
